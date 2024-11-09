@@ -1,4 +1,4 @@
-# Weather APP (BLoC - Cubit)
+# Weather Condition Demo with BLoC & Cubit
 #### Preview For Morning: 
 <img src="https://github.com/githuseyingur/weather_app_cubit/assets/120099096/2da8db57-24da-49ba-90b9-e00c87656665"  width="280" height ="580">
 
