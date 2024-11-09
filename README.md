@@ -50,6 +50,7 @@ dev_dependencies:
 - Equatable
 - Dio
 - Location (Geocoding & Geolocator)
+- JSON Serializable
 
 <br><br>
 
