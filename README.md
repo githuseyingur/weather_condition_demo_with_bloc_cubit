@@ -46,12 +46,10 @@ dev_dependencies:
 
 #### Features
 - BLoC (Cubit)
-- MVVM & Clean Architecture
+- MVVM
 - Equatable
-- Dio - City List & Weather Condition (Two different requests)
-- Location informations (Geocoding & Geolocator)
-- Constants & Extensions & Enums
-- Responsive Design
+- Dio
+- Location (Geocoding & Geolocator)
 
 <br><br>
 
